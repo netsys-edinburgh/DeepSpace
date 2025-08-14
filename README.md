@@ -14,7 +14,7 @@ SIGCOMM ’25, September 8–11, 2025, Coimbra, Portugal
 
 ## Template Dataset
 
-Please find the processed dataset on [Google Drive](https://drive.google.com/drive/folders/15k_WgA8qqc4pFRkS0FEPnAhyhyfEQb18?usp=sharing)
+Please find the processed showcase dataset on [Google Drive](https://drive.google.com/drive/folders/15k_WgA8qqc4pFRkS0FEPnAhyhyfEQb18?usp=sharing)
 
 Then unzip the data to `.../decompress/data/`.
 
@@ -27,6 +27,8 @@ This dataset is based on Planet-California, please cite the original data source
   year={2017}
 }
 ```
+
+The datasets used in this work are open-source, please refer to their original source for further access.
 
 ## Similar image detection and LSH encoding process
 
